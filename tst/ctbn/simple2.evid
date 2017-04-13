@@ -1,0 +1,30 @@
+<Trajectory>
+	<double name="ts" value="0" \>
+	<double name="te" value="1" \>
+	<map name="traj">
+		<pair>
+			<int name="key" value="0" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="0" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="1" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="0" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="2" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="0" \>
+			<\map>
+		<\pair>
+	<\map>
+<\Trajectory>

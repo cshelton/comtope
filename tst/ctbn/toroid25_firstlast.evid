@@ -1,0 +1,206 @@
+<Trajectory>
+	<double name="ts" value="0" \>
+	<double name="te" value="1" \>
+	<map name="traj">
+		<pair>
+			<int name="key" value="0" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="0" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="1" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="0" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="2" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="0" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="3" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="0" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="4" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="0" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="5" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="6" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="7" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="8" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="9" \>
+			<map name="value">
+				<pair.double.int key="0" value="0" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="10" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="11" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="12" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="13" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="14" \>
+			<map name="value">
+				<pair.double.int key="0" value="0" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="15" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="16" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="17" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="18" \>
+			<map name="value">
+				<pair.double.int key="0" value="1" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="19" \>
+			<map name="value">
+				<pair.double.int key="0" value="0" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="20" \>
+			<map name="value">
+				<pair.double.int key="0" value="0" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="21" \>
+			<map name="value">
+				<pair.double.int key="0" value="0" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="22" \>
+			<map name="value">
+				<pair.double.int key="0" value="0" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="23" \>
+			<map name="value">
+				<pair.double.int key="0" value="0" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+		<pair>
+			<int name="key" value="24" \>
+			<map name="value">
+				<pair.double.int key="0" value="0" \>
+				<pair.double.int key="1e-05" value="-1" \>
+				<pair.double.int key="0.99999" value="1" \>
+			<\map>
+		<\pair>
+	<\map>
+<\Trajectory>
